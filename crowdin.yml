@@ -2,4 +2,5 @@ files:
   - source: /projects/
     ignore:
       - zh_cn.json
+      - zh_cn.lang
     translation: '%original_path%/zh_cn.json'
